@@ -1,0 +1,17 @@
+{
+    "id": "Health",
+    "version": "2.0.0-SNAPSHOT",
+    "isReleaseManaged": true,
+    "author": "The Terasology Foundation",
+    "displayName": "Health",
+    "description": "Adds the concept of health (or hitpoints) to the game and handles regeneration, restoration and damage of entities.",
+    "dependencies": [
+        {
+            "id": "CoreAssets",
+            "minVersion": "2.0.1"
+        }
+    ],
+    "serverSideOnly": false,
+    "isLibrary": true,
+    "isAugmentation": true
+}
