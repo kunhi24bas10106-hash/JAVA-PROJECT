@@ -1,12 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/Terasology/Health/develop/docs/_media/banner.png">
-</div>
-
-_This is a module for [Terasology].
-It adds the concept of health (or hitpoints) to the game and handles regeneration, restoration and damage of entities._
-
-<h2 align="center"><a href="https://terasology.github.io/Health">👉 Documentation 👈</a></h2>
-
 ## Contributing
 
 We welcome contributions to our modules, be it bug fixes or feature contributions. 
